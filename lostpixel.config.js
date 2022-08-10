@@ -1,4 +1,4 @@
-export const config = {
+module.exports = {
   storybookShots: {
     storybookUrl: "./storybook-static",
   },
