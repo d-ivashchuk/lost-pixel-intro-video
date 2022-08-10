@@ -9,7 +9,7 @@ module.exports = {
       { path: "/c", name: "c", id: "c" },
       { path: "/d", name: "d", id: "d" },
     ],
-    pageUrl: "http://localhost:3000",
+    pageUrl: "http://172.17.0.1:3000",
   },
   generateOnly: true,
   failOnDifference: true,
