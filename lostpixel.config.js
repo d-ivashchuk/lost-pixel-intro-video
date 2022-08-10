@@ -1,6 +1,4 @@
-import { CustomProjectConfig } from "lost-pixel";
-
-export const config: CustomProjectConfig = {
+export const config = {
   storybookShots: {
     storybookUrl: "./storybook-static",
   },
